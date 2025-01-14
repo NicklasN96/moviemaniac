@@ -16,6 +16,10 @@
   align-items: center;
 }
 
+.navbar_list a.active {
+  font-weight: 500;
+}
+
 .navbar_links > a {
   display: flex;
   align-items: center;
